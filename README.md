@@ -1,1 +1,1 @@
-# -ALCPokeGrading
+# -ALCCardGrading
